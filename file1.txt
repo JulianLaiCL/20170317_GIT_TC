@@ -3,3 +3,5 @@ v1.0
 gogo update local!
 
 local update!
+
+remote update!
